@@ -1,6 +1,6 @@
 # SwiftUI To-Do App
 
-![App Screenshot](Simulator Screenshot - iPhone 17 Pro - 2026-03-10 at 16.02.48.png)
+![App Screenshot](./Simulator%20Screenshot%20-%20iPhone%2017%20Pro%20-%202026-03-10%20at%2016.02.48.png)
 
 A simple To-Do List iOS application built with SwiftUI.
 
